@@ -1,6 +1,6 @@
 {
-    "versionCode": 6,
-    "versionName": "1.5",
+    "versionCode": 7,
+    "versionName": "1.6",
     "apk": "https://fe-nickel.github.io/InfoSet/InfoSet.apk",
-    "changelog": "更新了打卡功能"
+    "changelog": "完善了自动更新功能"
   }
