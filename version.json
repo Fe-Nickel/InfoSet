@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 3,
+    "versionName": "1.2",
     "apk": "https://fe-nickel.github.io/InfoSet/InfoSet.apk",
-    "changelog": "修复了更新网页的问题"
+    "changelog": "完善了设置"
   }
