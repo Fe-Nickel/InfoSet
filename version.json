@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 3,
+    "versionName": "1.2",
     "apk": "https://fe-nickel.github.io/InfoSet/InfoSet.apk",
-    "changelog": "更新了设置"
+    "changelog": "添加了默认的南开大学脚本包"
   }
