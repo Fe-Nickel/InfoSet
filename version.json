@@ -1,6 +1,6 @@
 {
-    "versionCode": 9,
-    "versionName": "1.8",
+    "versionCode": 10,
+    "versionName": "1.9",
     "apk": "https://fe-nickel.github.io/InfoSet/InfoSet.apk",
     "changelog": "-修复了内存泄漏问题"
   }
